@@ -22,6 +22,7 @@ github_username: "keittlab"
 minimal_mistakes_skin: "default"
 search: true
 repository: keittlab/website
+github: [metadata]
 
 # Build settings
 markdown: kramdown
